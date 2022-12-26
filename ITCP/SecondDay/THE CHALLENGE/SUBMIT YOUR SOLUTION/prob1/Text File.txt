@@ -1,0 +1,3 @@
+ grep -inr --include \*.txt 'Assia ben daoud' ./
+
+# you can make a bash script out off this ! 
